@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pieChartTitle{
+  text-align: center;
+}
+
+.pieChart{
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
